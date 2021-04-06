@@ -8,7 +8,9 @@ data-wow-offset: Distance to start the animation (related to the browser bottom)
 data-wow-iteration: Number of times the animation is repeated
 
 <code>
-<section class="wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s"></section>
-<section class="wow slideInRight" data-wow-offset="10"  data-wow-iteration="10"></section>
-  </code>
+  data-wow-duration="2s"
+  data-wow-delay="5s"
+  data-wow-offset="10"
+  data-wow-iteration="10"
+</code>
 </pre>
